@@ -1,9 +1,17 @@
 {
-    "version":  "1.1.7",
+    "version":  "1.1.8",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "6a75ca894ec646fc5ff93e1ee863718a0407eb696f030124c802ea87a909941d",
-    "notes":  "Logo menu Minecrafta poprawione: CubiX nad Launcher.",
+    "sha256":  "dac4a5ddc995b9fc88499d0d74566240545d6dae299e37d57b55a9292c688e94",
+    "notes":  "Powiększone logo CubiX i napis Launcher w menu Minecrafta.",
     "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.1.8",
+                          "version":  "1.1.8",
+                          "notes":  [
+                                        "Powiększone logo CubiX i napis Launcher w menu Minecrafta."
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.1.7",
