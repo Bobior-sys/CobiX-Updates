@@ -1,9 +1,17 @@
 {
-    "version":  "1.2.1",
+    "version":  "1.2.2",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "c5718e66a89d48909762eea74156bc8f7917fcc33892e319b20796c4ea7fd8b8",
-    "notes":  "Nowy ekran logowania Microsoft, poprawiona obsługa logowania i anulowania. Status konta widoczny w zakładce Skiny.",
+    "sha256":  "ebcadb9850e1ae92a20398b989dd34b9c5ae52c8f639f5668fdf06b6659f196d",
+    "notes":  "Poprawione polskie znaki i teksty interfejsu. Aktualizacja klienta launchera.",
     "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.2.2",
+                          "version":  "1.2.2",
+                          "notes":  [
+                                        "Poprawione polskie znaki i teksty interfejsu. Aktualizacja klienta launchera."
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.2.1",
