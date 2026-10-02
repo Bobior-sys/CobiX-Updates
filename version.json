@@ -1,9 +1,17 @@
 {
-    "version":  "1.1.4",
+    "version":  "1.1.5",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "3c5f8570cad985df63a4b79e5a51803b0fd48089b04fc555ca89da981f9c27a3",
-    "notes":  "Poprawka anulowania pobierania i startu gry",
+    "sha256":  "583eca5368b47319bceb923317fb5d34fed65a396f24832f6ffb0353356c42a5",
+    "notes":  "Naprawa aktualizacji: dołączone launchery Java; poprawka anulowania gry",
     "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.1.5",
+                          "version":  "1.1.5",
+                          "notes":  [
+                                        "Naprawa aktualizacji: dołączone launchery Java; poprawka anulowania gry"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.1.4",
