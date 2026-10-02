@@ -1,9 +1,17 @@
 {
-    "version":  "1.2.2",
+    "version":  "1.2.3",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "ebcadb9850e1ae92a20398b989dd34b9c5ae52c8f639f5668fdf06b6659f196d",
-    "notes":  "Poprawione polskie znaki i teksty interfejsu. Aktualizacja klienta launchera.",
+    "sha256":  "f9d6bf2230f627ab74d36fdaeb01de99104793156b756ef1da9e7407127225f4",
+    "notes":  "Logowanie Microsoft pozostaje zablokowane do konfiguracji aplikacji CubiX. Resource packi pamiętają ustawienie w grze i nie włączają się ponownie przy każdym starcie.",
     "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.2.3",
+                          "version":  "1.2.3",
+                          "notes":  [
+                                        "Logowanie Microsoft pozostaje zablokowane do konfiguracji aplikacji CubiX. Resource packi pamiętają ustawienie w grze i nie włączają się ponownie przy każdym starcie."
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.2.2",
