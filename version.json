@@ -1,9 +1,17 @@
 {
-    "version":  "1.2.3",
+    "version":  "1.2.4",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "f9d6bf2230f627ab74d36fdaeb01de99104793156b756ef1da9e7407127225f4",
-    "notes":  "Logowanie Microsoft pozostaje zablokowane do konfiguracji aplikacji CubiX. Resource packi pamiętają ustawienie w grze i nie włączają się ponownie przy każdym starcie.",
+    "sha256":  "c7cec452688a58481c69ed5233b900349469fdeafe46ab97ac3428e76e690994",
+    "notes":  "Mody zapisują się osobno dla wybranej wersji i są dostępne przez przycisk Folder. Zielona, animowana panorama dżungli dla Minecrafta 1.21.4.",
     "changelog":  [
+                      {
+                          "date":  "2026-10-03",
+                          "title":  "CubiX 1.2.4",
+                          "version":  "1.2.4",
+                          "notes":  [
+                                        "Mody zapisują się osobno dla wybranej wersji i są dostępne przez przycisk Folder. Zielona, animowana panorama dżungli dla Minecrafta 1.21.4."
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.2.3",
