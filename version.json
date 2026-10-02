@@ -1,9 +1,17 @@
 {
-    "version":  "1.1.2",
+    "version":  "1.1.3",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "1ecaeea99083f7ef36ea912a802a1032b35cd00cf2d1653e4ce56acbebdf5802",
-    "notes":  "Pierwsza wersja instalatora EXE",
+    "sha256":  "e103eea13ff18e64578aef714247dc266ac46009f5f6673f25e38d83d19212c5",
+    "notes":  "Ikona i nazwa CubiX Launcher; poprawka aktualizacji",
     "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.1.3",
+                          "version":  "1.1.3",
+                          "notes":  [
+                                        "Ikona i nazwa CubiX Launcher; poprawka aktualizacji"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.1.2",
