@@ -1,9 +1,17 @@
 {
-    "version":  "1.1.8",
+    "version":  "1.2.0",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "dac4a5ddc995b9fc88499d0d74566240545d6dae299e37d57b55a9292c688e94",
-    "notes":  "Powiększone logo CubiX i napis Launcher w menu Minecrafta.",
+    "sha256":  "0c9da3a413020dbef0d1d4558f02f9290033986346c602d2bcbba590f146bae9",
+    "notes":  "Poprawione położenie większego logo w menu Minecrafta. Nowy instalator Windows.",
     "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.2.0",
+                          "version":  "1.2.0",
+                          "notes":  [
+                                        "Poprawione położenie większego logo w menu Minecrafta. Nowy instalator Windows."
+                                    ]
+                      },
                       {
                           "date":  "2026-10-02",
                           "title":  "CubiX 1.1.8",
