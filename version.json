@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "url": "https://github.com/TWOJ_LOGIN/TWOJE_REPO/releases/download/v1.1.0/mc-launcher-1.1.0.jar",
-  "sha256": "WKLEJ_SUME_SHA256_PLIKU_JAR",
+  "url": "https://github.com/Bobior-sys/CobiX-Updates/releases/download/v1.1.0/mc-launcher-1.0.0.jar",
+  "sha256": "(Get-FileHash .\target\mc-launcher-1.0.0.jar -Algorithm SHA256).Hash.ToLower()",
   "notes": "Instalator aktualizacji i historia zmian w Newsach",
   "changelog": [
     {
