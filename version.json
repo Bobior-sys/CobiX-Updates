@@ -1,27 +1,35 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Bobior-sys/CobiX-Updates/releases/download/v1.1.0/mc-launcher-1.0.0.jar",
-  "sha256": "",
-  "notes": "Instalator aktualizacji i historia zmian w Newsach",
-  "changelog": [
-    {
-      "version": "1.1.0",
-      "date": "2026-10-05",
-      "title": "Instalator aktualizacji",
-      "notes": [
-        "Launcher aktualizuje się sam jednym kliknięciem (pobiera, sprawdza i uruchamia się ponownie).",
-        "W zakładce Newsy jest pełna historia zmian CubiX."
-      ]
-    },
-    {
-      "version": "1.0.0",
-      "date": "2026-10-01",
-      "title": "Pierwsze wydanie",
-      "notes": [
-        "Wybór wersji gry, tryb Fabric i mody z Modrinth.",
-        "Skiny i peleryny, ustawienia RAM i rozdzielczości.",
-        "Tryb wydajności, automatyczna Java, newsy."
-      ]
-    }
-  ]
+    "version":  "1.1.1",
+    "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
+    "sha256":  "431efd4110ea30f14d9e7f6cb3da3ab501465b64c590a2d3043ffddc6d9869e2",
+    "notes":  "Poprawki i usprawnienia",
+    "changelog":  [
+                      {
+                          "date":  "2026-10-02",
+                          "title":  "CubiX 1.1.1",
+                          "version":  "1.1.1",
+                          "notes":  [
+                                        "Poprawki i usprawnienia"
+                                    ]
+                      },
+                      {
+                          "version":  "1.1.0",
+                          "date":  "2026-10-05",
+                          "title":  "Instalator aktualizacji",
+                          "notes":  [
+                                        "Launcher aktualizuje się sam jednym kliknięciem (pobiera, sprawdza i uruchamia się ponownie).",
+                                        "W zakładce Newsy jest pełna historia zmian CubiX."
+                                    ]
+                      },
+                      {
+                          "version":  "1.0.0",
+                          "date":  "2026-10-01",
+                          "title":  "Pierwsze wydanie",
+                          "notes":  [
+                                        "Wybór wersji gry, tryb Fabric i mody z Modrinth.",
+                                        "Skiny i peleryny, ustawienia RAM i rozdzielczości.",
+                                        "Tryb wydajności, automatyczna Java, newsy."
+                                    ]
+                      }
+                  ]
 }
