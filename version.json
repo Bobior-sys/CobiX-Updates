@@ -1,5 +1,27 @@
-   {
-     "version": "1.0.0",
-     "url": "https://github.com/Bobior-sys/CobiX-Updates",
-     "notes": "Pierwsza wersja"
-   }
+{
+  "version": "1.1.0",
+  "url": "https://github.com/TWOJ_LOGIN/TWOJE_REPO/releases/download/v1.1.0/mc-launcher-1.1.0.jar",
+  "sha256": "WKLEJ_SUME_SHA256_PLIKU_JAR",
+  "notes": "Instalator aktualizacji i historia zmian w Newsach",
+  "changelog": [
+    {
+      "version": "1.1.0",
+      "date": "2026-10-05",
+      "title": "Instalator aktualizacji",
+      "notes": [
+        "Launcher aktualizuje się sam jednym kliknięciem (pobiera, sprawdza i uruchamia się ponownie).",
+        "W zakładce Newsy jest pełna historia zmian CubiX."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-10-01",
+      "title": "Pierwsze wydanie",
+      "notes": [
+        "Wybór wersji gry, tryb Fabric i mody z Modrinth.",
+        "Skiny i peleryny, ustawienia RAM i rozdzielczości.",
+        "Tryb wydajności, automatyczna Java, newsy."
+      ]
+    }
+  ]
+}
