@@ -1,9 +1,17 @@
 {
-    "version":  "1.2.8",
+    "version":  "1.2.9",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "14177ba54bdce6a28ca30a9c2debca97e6a1aeb5fdf07c6f5d36821e00f25bcc",
-    "notes":  "Nowe UI w stylu Lunar Client z duymi przyciskami i zabezpieczonym tekstem",
+    "sha256":  "167c4bb1f9d6c8e13b6da10e97d445a847642d88d56c641d9429ec7fbf06b795",
+    "notes":  "Zabezpieczono tekst statusu przed ukryciem",
     "changelog":  [
+                      {
+                          "date":  "2026-10-03",
+                          "title":  "CubiX 1.2.9",
+                          "version":  "1.2.9",
+                          "notes":  [
+                                        "Zabezpieczono tekst statusu przed ukryciem"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-03",
                           "title":  "CubiX 1.2.8",
