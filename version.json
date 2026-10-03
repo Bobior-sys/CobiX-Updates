@@ -1,9 +1,17 @@
 {
-    "version":  "1.2.5",
+    "version":  "1.2.7",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "90dbf48d8fda7a87b8006b24e8288aa31bcf4d1c797d9f2aeb82549ea3c029c0",
-    "notes":  "Naprawione sprawdzanie aktualizacji: manifest jest pobierany bez starej kopii z cache. Pozostałe zmiany: mody zostają zapisane per wersja i tło dżungli dla Minecrafta 1.21.4.",
+    "sha256":  "d5efd9143719d70c04d989d86f7cfcaa545a50d26018646634e0225dbbb66da6",
+    "notes":  "Usunito to dungli, przywrócono stare fioletowe to",
     "changelog":  [
+                      {
+                          "date":  "2026-10-03",
+                          "title":  "CubiX 1.2.7",
+                          "version":  "1.2.7",
+                          "notes":  [
+                                        "Usunito to dungli, przywrócono stare fioletowe to"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-03",
                           "title":  "CubiX 1.2.5",
