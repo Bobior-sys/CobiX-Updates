@@ -1,9 +1,17 @@
 {
-    "version":  "1.2.9",
+    "version":  "1.3.0",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "167c4bb1f9d6c8e13b6da10e97d445a847642d88d56c641d9429ec7fbf06b795",
-    "notes":  "Zabezpieczono tekst statusu przed ukryciem",
+    "sha256":  "f4f4ebb7e413f56de70a6b35830f23f5021cd298f931096c251449a7e0afff80",
+    "notes":  "Naprawa Bledow",
     "changelog":  [
+                      {
+                          "date":  "2026-10-04",
+                          "title":  "CubiX 1.3.0",
+                          "version":  "1.3.0",
+                          "notes":  [
+                                        "Naprawa Bledow"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-03",
                           "title":  "CubiX 1.2.9",
