@@ -1,9 +1,17 @@
 {
-    "version":  "1.3.1",
+    "version":  "1.3.3",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "c28d385babbc6c9ce20b313f7e34254ae1d1f3bb17a8cc9509351b098c9f2a64",
-    "notes":  "Nowe czapki (samuraj, czarodziej, korona, pirat), ikona launchera przy nicku",
+    "sha256":  "dbb8b45ca315b0b1db0ee49117491d5959f925ecd372f2ab801077912284f309",
+    "notes":  "Usunito system czapek, pozostawiono skiny i peleryny",
     "changelog":  [
+                      {
+                          "date":  "2026-10-09",
+                          "title":  "CubiX 1.3.3",
+                          "version":  "1.3.3",
+                          "notes":  [
+                                        "Usunito system czapek, pozostawiono skiny i peleryny"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-09",
                           "title":  "CubiX 1.3.1",
