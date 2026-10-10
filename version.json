@@ -1,9 +1,17 @@
 {
-    "version":  "1.3.4",
+    "version":  "1.3.5",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "dded402a5778ddcf3a43256a0d9d89f67b644c1c1720d05e84b2c7171f29d935",
-    "notes":  "naprawa pelerynek i skinow",
+    "sha256":  "e4ecb91f7982d6f3d1fac30e4e7eea31c67f781f41d5e8be1e3abe8ce69312a5",
+    "notes":  "Usunito system czapek, pozostawiono skiny i peleryny",
     "changelog":  [
+                      {
+                          "date":  "2026-10-10",
+                          "title":  "CubiX 1.3.5",
+                          "version":  "1.3.5",
+                          "notes":  [
+                                        "Usunito system czapek, pozostawiono skiny i peleryny"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-09",
                           "title":  "CubiX 1.3.4",
