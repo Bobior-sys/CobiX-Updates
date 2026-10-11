@@ -1,9 +1,17 @@
 {
-    "version":  "1.3.5",
+    "version":  "1.3.6",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "e4ecb91f7982d6f3d1fac30e4e7eea31c67f781f41d5e8be1e3abe8ce69312a5",
-    "notes":  "Usunito system czapek, pozostawiono skiny i peleryny",
+    "sha256":  "a60e02da2a5d2b0acf8ee9a7389b5b6455d57fe4c7c410d2f1cd31f4fd92763e",
+    "notes":  "dodanie profilow graczy do client ",
     "changelog":  [
+                      {
+                          "date":  "2026-10-11",
+                          "title":  "CubiX 1.3.6",
+                          "version":  "1.3.6",
+                          "notes":  [
+                                        "dodanie profilow graczy do client "
+                                    ]
+                      },
                       {
                           "date":  "2026-10-10",
                           "title":  "CubiX 1.3.5",
