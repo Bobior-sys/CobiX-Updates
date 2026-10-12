@@ -1,9 +1,17 @@
 {
-    "version":  "1.3.6",
+    "version":  "1.3.7",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "a60e02da2a5d2b0acf8ee9a7389b5b6455d57fe4c7c410d2f1cd31f4fd92763e",
-    "notes":  "dodanie profilow graczy do client ",
+    "sha256":  "ef83eb92ee4a367a41ea9b2ca35a6377396e6be16903fe8a870924028d971afc",
+    "notes":  "dodanie modpackow ",
     "changelog":  [
+                      {
+                          "date":  "2026-10-12",
+                          "title":  "CubiX 1.3.7",
+                          "version":  "1.3.7",
+                          "notes":  [
+                                        "dodanie modpackow "
+                                    ]
+                      },
                       {
                           "date":  "2026-10-11",
                           "title":  "CubiX 1.3.6",
