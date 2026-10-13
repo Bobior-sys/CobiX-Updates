@@ -1,9 +1,17 @@
 {
-    "version":  "1.3.8",
+    "version":  "1.4.0",
     "url":  "https://github.com/Bobior-sys/CobiX-Updates/releases/latest/download/mc-launcher.jar",
-    "sha256":  "edaa8296841a98b71ab08cfbe65bf2bb85cd6af2a6bf22ae0f50eed7bd26df6e",
-    "notes":  "naprawienie bledow i dodanie jezykow",
+    "sha256":  "64442ff3b38436fe7576d293c3ff0542e380a53917dd638d2c6fba6fb1b6e62e",
+    "notes":  "widocznosc Discorda jak sie gra",
     "changelog":  [
+                      {
+                          "date":  "2026-10-13",
+                          "title":  "CubiX 1.4.0",
+                          "version":  "1.4.0",
+                          "notes":  [
+                                        "widocznosc Discorda jak sie gra"
+                                    ]
+                      },
                       {
                           "date":  "2026-10-13",
                           "title":  "CubiX 1.3.8",
